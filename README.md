@@ -29,9 +29,9 @@ The **Game of Life** is a cellular automaton devised by mathematician John Horto
    python game_of_life.py
 3. **Exit the Simulation: Press Ctrl + C to stop the game at any time.**
 
+---
 
-
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
    
